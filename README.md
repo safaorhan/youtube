@@ -70,3 +70,4 @@ Keep in mind that these subtitles would make our channel accessible to people wi
   - [Hakan Aktaş](https://github.com/hkan)
   - [Çağdaş Dağ](https://github.com/cagdasdag)
   - [Alper Kanat](https://github.com/tunix)
+  - [Ahmet Safa Orhan](https://github.com/safaorhan)
